@@ -1,3 +1,3 @@
 # piyush-1st-repository-demo
-this is my first page git-hub repository
+this is my first page git-hub repository.
 author - piyush pawar
